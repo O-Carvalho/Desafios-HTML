@@ -28,7 +28,7 @@ Uma série de desafios básicos para praticar meus conhecimentos em HTML.
   <br>
   <details>
     <summary>Formulário de contato</summary>
-    Neste desafio foi desenvolvido um formulario para contato utilizando os elementos <strong>< fieldset>, < select>, < checkbox></strong>.
+    Neste desafio foi desenvolvido um formulario para contato utilizando diversos elementos disponiveis.
   </details>
 
 <br>
