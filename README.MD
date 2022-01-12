@@ -30,7 +30,11 @@ Uma série de desafios básicos para praticar meus conhecimentos em HTML.
     <summary>Formulário de contato</summary>
     Neste desafio foi desenvolvido um formulario para contato utilizando diversos elementos disponiveis.
   </details>
-
+<br>
+<details>
+    <summary>Lista de compras</summary>
+    Neste desafio foi desenvolvido uma lista de compras utilizando o elemento <strong>< checkbox></strong>.
+  </details>
 <br>
 
 ## Tecnologias
