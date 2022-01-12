@@ -7,7 +7,7 @@
         <img alt="License" src="https://img.shields.io/badge/licen%C3%A7a-MIT-blue">
     </a>
     <a href="#">
-        <img alt="License" src="https://img.shields.io/badge/desenvolvimento-em%20andamento-orange">
+        <img alt="License" src="https://img.shields.io/badge/status-em%20andamento-orange">
     </a>
 </p>
 
