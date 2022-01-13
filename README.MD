@@ -33,12 +33,17 @@ Uma série de desafios básicos para praticar meus conhecimentos em HTML.
 <br>
 <details>
     <summary>Lista de compras</summary>
-    Neste desafio foi desenvolvido uma lista de compras utilizando o elemento <strong>< checkbox></strong>.
+    Neste desafio foi desenvolvido uma lista de compras utilizando o elemento <strong>&lt;checkbox&gt;</strong>.
   </details>
 <br>
 <details>
     <summary>Quiz</summary>
     Neste desafio foi desenvolvido um quiz de 4 perguntas com 4 respostas cada com o tema HTML. O objetivo é de utilizar os elementos Lista ordenada e Radio.
+  </details>
+<br>
+<details>
+    <summary>Blog</summary>
+    Neste desafio foi desenvolvido um a estrutura HTML para uma pagina de post de um blog.
   </details>
 <br>
 
